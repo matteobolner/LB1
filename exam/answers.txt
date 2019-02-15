@@ -46,4 +46,4 @@ b value in scale-free networks is between 2 and 3
 					-colours => yellow, orange, red
 
 9)
--the session is saved as "session.cys" ; in order to load the colours applied it is necessary to import the "styles.xml" file also present in this folder
+-the session is saved as "session.cys"
