@@ -9,13 +9,13 @@ selected proteins : ZMAT3, UBE2D2, MDM4, BBC3
 |----------------------------------
 |Clustering coefficient		: 0.026
 |----------------------------------
-|Network diameter	: 7
+|Network diameter		: 7
 |----------------------------------
 |Characteristic path length	: 2.590					 
 |----------------------------------
 |Avg. number of neighbors	: 2.034					 
 |----------------------------------
-|Number of nodes	: 118					 
+|Number of nodes		: 118					 
 |----------------------------------
 
 6)
