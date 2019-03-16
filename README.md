@@ -1,6 +1,6 @@
 # laboratory-of-bioinformatics
 
-Repository for the module 3 of the "Laboratory of bioinformatics 1" course
+Repository for the "Laboratory of bioinformatics 1" course
 
 Contents of this repository :
 
